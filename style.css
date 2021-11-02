@@ -1,12 +1,19 @@
-body{background-color:white;
+body{background-color: cadetblue;}
+
+#cardholder{
     display: flex;
-    }
-    
-    .Card
-    {
-        color: red;
-        background-color: black;
-        width:400px;
-        height:300px;
-    
-    }
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.mainHeader {
+    text-align: center;
+    font-family: Helvetica;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+}
