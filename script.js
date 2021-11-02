@@ -57,12 +57,12 @@ class Dog {
 }
 
 function setupDogs(){
-    Dog.push(new Dog("Fluffy", "Poodle", "https://1.bp.blogspot.com/-HGHeu9tMAVk/X38fEMeFTAI/AAAAAAAABpU/DlZnIO_c7q8b98uUYSX02wEsgOpib7xzQCLcBGAsYHQ/s616/toy-poodle-puppy-price-in-india.png", "7 months"))
-    Dog.push(new Dog("Otto", "Chihuahua", "https://i.pinimg.com/originals/cc/66/5b/cc665b8cc5fd3a0f416c37c437f10a9d.jpg", "2 years old"))
-    Dog.push (new Dog("Alfie", "French Bulldog", "https://www.lovelyhomefenchbulldogs.com/wp-content/uploads/2020/10/e31d4008-3462-43d4-a45d-cf05aa3421d0.jpg", "6 months"))
-    Dog.push (new Dog("Ruby", "Pomeranian", "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F03%2F12%2Fpomeranian-white-puppy-921029690-2000.jpg", "3 months"))
-    Dog.push (new Dog("Sparkie", "Golden Retriever", "https://i.pinimg.com/originals/59/df/de/59dfde6234ce23109248065208283059.jpg", "1 year old"))
-    Dog.push (new Dog("Koko", "Jack Russell", "https://i.pinimg.com/originals/b5/ae/79/b5ae797a411df740484ededb704a33cd.jpg", "3 months"))
+    Dog.push(new Dog("Luffy", "Poodle", "https://toppng.com//public/uploads/preview/minature-poodle-toy-poodles-the-ultimate-toy-poodle-manual-toy-poodles-11563223838495aqiwsxy.png", "7 months"))
+    Dog.push(new Dog("Zoro", "Chihuahua", "https://icon2.cleanpng.com/20180402/wge/kisspng-chihuahua-great-dane-dachshund-poodle-puppy-chihuahua-5ac20d4e822574.7068207815226668305331.jpg", "2 years old"))
+    Dog.push (new Dog("Sora", "French Bulldog", "https://www.pikpng.com/pngl/m/50-505811_bulldog-puppy-no-background-french-bulldog-transparent-background.png", "6 months"))
+    Dog.push (new Dog("Knox", "Shih Tzu", "https://toppng.com/uploads/preview/shih-tzu-shih-tzu-stock-11562983707akabdyxags.png", "1 Year old"))
+    Dog.push (new Dog("Yuna", "Husky", "https://toppng.com//public/uploads/preview/husky-png-transparent-images-siberian-husky-puppy-11563390263ta7cgu4vna.png", "2 Months"))
+    Dog.push (new Dog("Yukio", "Shiba Inu", "https://icon2.cleanpng.com/20171220/cbq/look-to-the-front-of-the-shiba-inu-5a3a5805d9e041.9250407715137730618924.jpg", "7 months"))
 }
 
 setupDogs()
